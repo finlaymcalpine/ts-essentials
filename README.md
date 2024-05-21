@@ -1,5 +1,5 @@
 # ts-essentials
-Notebooks on essential time series concepts, tools, and applications.
+A long-term project bringing together notebooks on essential time series concepts, tools, and applications.
 
 These notebooks form the (VERY) early drafts of a series I plan to write on time series analysis. I'm trying to approach this with the most straightforward approach possible: the aim is to make something that an early practitioner or student of the topic might find useful in learning concepts and when (or rather when NOT) to apply them.
 
